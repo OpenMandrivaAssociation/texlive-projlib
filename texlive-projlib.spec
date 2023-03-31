@@ -1,6 +1,6 @@
 Name:		texlive-projlib
 Version:	65023
-Release:	1
+Release:	2
 Summary:	A series of tools to simplify your workflow
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/projlib
