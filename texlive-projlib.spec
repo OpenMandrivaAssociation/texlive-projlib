@@ -1,5 +1,5 @@
 Name:		texlive-projlib
-Version:	69689
+Version:	70137
 Release:	1
 Summary:	A series of tools to simplify your workflow
 Group:		Publishing
