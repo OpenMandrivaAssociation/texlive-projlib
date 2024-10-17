@@ -3,7 +3,7 @@ Version:	70305
 Release:	1
 Summary:	A series of tools to simplify your workflow
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/projlib
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/projlib
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/projlib.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/projlib.doc.r%{version}.tar.xz
